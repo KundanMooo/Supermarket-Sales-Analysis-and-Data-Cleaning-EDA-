@@ -21,9 +21,7 @@ accurate marketing activities. In order to increase consumer engagement and sale
 can customise promotional events, product displays, and adverts to individual
 gender preferences.
 
-### The supermarket can pinpoint failing locations and take action to improve inventory levels,
-product selection, and operational efficiency in those regions through analysing sales distribution
-across different stores and cities.
+### The supermarket can pinpoint failing locations and take action to improve inventory levels,product selection, and operational efficiency in those regions through analysing sales distributionacross different stores and cities.
 
 ### Optimising product line offerings:
 Supermarkets may determine the best-performing product categories and make informed decisions about inventory management, marketing strategies,
@@ -36,6 +34,4 @@ suitable preparations by using the data gathered from the date column, such as m
 days, weekend, and quarter. To maximise sales at times of high demand, this could involve
 altering employee numbers, inventory restocking, and promotional efforts.
 
-## Based on the data that was gathered, these choices might result in greater
-customer happiness, more sales, improved management of inventory, and overall
-company success for the supermarket
+## Based on the data that was gathered, these choices might result in greatercustomer happiness, more sales, improved management of inventory, and overallcompany success for the supermarket
